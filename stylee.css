@@ -1,0 +1,15 @@
+h1{
+    color:magenta;
+}
+.rem{
+    margin:5px;
+    background-color: grey;
+    color:cyan;
+    border: none;
+    cursor:pointer;
+}
+li{
+    display: block;
+    border: 5%;
+    color:magenta;
+}
